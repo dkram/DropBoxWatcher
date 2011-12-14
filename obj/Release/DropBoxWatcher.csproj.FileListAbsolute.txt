@@ -1,0 +1,10 @@
+C:\code\FileWatcher\DropBoxWatcher\bin\Release\DropBoxWatcher.exe.config
+C:\code\FileWatcher\DropBoxWatcher\bin\Release\DropBoxWatcher.exe
+C:\code\FileWatcher\DropBoxWatcher\bin\Release\DropBoxWatcher.pdb
+C:\code\FileWatcher\DropBoxWatcher\obj\Release\ResolveAssemblyReference.cache
+C:\code\FileWatcher\DropBoxWatcher\obj\Release\DropBoxWatcher.FormSettings.resources
+C:\code\FileWatcher\DropBoxWatcher\obj\Release\DropBoxWatcher.Properties.Resources.resources
+C:\code\FileWatcher\DropBoxWatcher\obj\Release\DropBoxWatcher.csproj.GenerateResource.Cache
+C:\code\FileWatcher\DropBoxWatcher\obj\Release\DropBoxWatcher.exe
+C:\code\FileWatcher\DropBoxWatcher\obj\Release\DropBoxWatcher.pdb
+C:\code\FileWatcher\DropBoxWatcher\obj\Release\DropBoxWatcher.SysTrayApp.resources
